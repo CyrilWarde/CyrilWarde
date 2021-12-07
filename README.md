@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **ML/DL and data engineering projects in support of public policy and good governance worldwide.**
 
-- 🤝 I’m looking for help with **"data science for good" projects.**
+- 🤝 In parallel to these, I’m looking to contribute to pro-bono **"data science for good" projects.**
 
 - 📫 How to reach me **cyrillewarde@gmail.com**
 

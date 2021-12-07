@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **cyrillewarde@gmail.com**
 
-- ⚡ Fun fact **I have a background in political science and international relations**
+- ⚡ Fun fact: **I have a background in political science and international relations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

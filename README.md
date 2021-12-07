@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **cyrillewarde@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3Dyb1j1](https://bit.ly/3Dyb1j1)
-
 - ⚡ Fun fact **I have a background in political science and international relations**
 
 <h3 align="left">Connect with me:</h3>

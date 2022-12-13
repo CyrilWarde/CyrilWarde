@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cyril Warde</h1>
-<h3 align="center">A passionate data scientist based in Paris</h3>
+<h3 align="center">A passionate data analyst based in Beirut</h3>
 
-- 🌱 I’m currently learning **advanced ML topics; also keen on supplanting my programming skills with either Java or JS.**
+- 🌱 I’m currently learning **advanced data manipulation topics; also keen on supplanting my data analysis skills with Machine Learning libraries.**
 
 - 👯 I’m looking to collaborate on **ML/DL and data engineering projects in support of public policy and good governance worldwide.**
 
